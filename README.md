@@ -1,0 +1,2 @@
+# yakup
+Mavi tik
